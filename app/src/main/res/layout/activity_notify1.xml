@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/view_notify1_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="notification" />
+     <Button
+        android:id="@+id/view_notify2_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="notification(builder)" />
+     <Button
+        android:id="@+id/view_notify3_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="notification(builder)自定义布局" />
+      <Button
+        android:id="@+id/view_toast_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="自定义toast" />
+
+</LinearLayout>

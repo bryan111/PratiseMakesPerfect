@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_person.png",
+        "source": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_person.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\just_run.jpg",
+        "source": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\drawable-xxhdpi\\just_run.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_accounts.png",
+        "source": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_accounts.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_accept.png",
+        "source": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_accept.png"
+    }
+]

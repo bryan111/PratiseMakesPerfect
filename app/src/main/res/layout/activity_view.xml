@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/view_tagwidget_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="切换卡TabWidget" />
+
+    <Button
+        android:id="@+id/view_dialog_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="自定义Dialog的使用" />
+    <Button
+        android:id="@+id/view_notify_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="notify的使用" />
+    <Button
+        android:id="@+id/drawer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="侧滑菜单，使用DrawerLayout" />
+      <Button
+        android:id="@+id/tabs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="viewpager+标题栏引导+滑动" />
+    
+
+</LinearLayout>

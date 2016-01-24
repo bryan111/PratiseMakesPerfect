@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.pratisemeanperfect"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="23" />
+
+    <!-- 写文件权限 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!-- 读文件权限  API19+需要 -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <!-- 发送短信权限 -->
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <!-- 接受短信权限 -->
+    <uses-permission android:name="android.permission.READ_SMS" />
+
+    <!-- BMOB需要的权限 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.bryan.example.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- 控件 -->
+        <activity android:name="com.bryan.example.view.ViewBaseActivity" >
+        </activity>
+        <activity android:name="com.bryan.example.view.tagwidget.TabwidgetActivity" >
+        </activity>
+        <activity android:name="com.bryan.example.view.dialog.CustomDailogActivity" >
+        </activity>
+        <activity android:name="com.bryan.example.view.notifycation.NotificationActvity" >
+        </activity>
+        <activity android:name="com.bryan.example.view.drawer.DrawerActivity" >
+        </activity>
+        <activity android:name="com.bryan.example.view.slidingtablayout.ActionTabsActivity" >
+        </activity>
+
+        <!-- 功能模块 -->
+        <activity android:name="com.bryan.example.function.FunctionBaseActivity" >
+        </activity>
+        <activity android:name="com.bryan.example.function.touch.PanScrollActivity" >
+        </activity>
+        <activity android:name="com.bryan.example.function.touch.PanScrollActivity2" >
+        </activity>
+        <activity android:name="com.bryan.example.function.imageview.RotateZoomImageViewActivity" >
+        </activity>
+        <activity android:name="com.bryan.example.function.touch.TouchDelegateActivity" >
+        </activity>
+        <activity android:name="com.bryan.example.function.touch.RemoteScrollActivity" >
+        </activity>
+        <activity android:name="com.bryan.example.function.touch.DisallowActivity" >
+        </activity>
+        <activity android:name="com.bryan.example.function.imageview.DragTouchActivity" >
+        </activity>
+        <activity android:name="com.bryan.example.function.gongneng.IsNetConnectActivity" />
+        <activity android:name="com.bryan.example.function.gongneng.SmsActivity" />
+        <activity android:name="com.bryan.example.function.notify.NotificationActivity" />
+
+        <!-- 通信和联网 -->
+        <activity android:name="com.bryan.example.net.NetActivityBase" >
+        </activity>
+        <activity android:name="com.bryan.example.net.webview.LoadAssetsActivity" />
+        <activity android:name="com.bryan.example.net.webview.LoadJavaScriptActivity" />
+        <activity android:name="com.bryan.example.net.webview.LoadUrlActivity" />
+        <activity android:name="com.bryan.example.net.download.DownLoadActivity" />
+        <activity android:name="com.bryan.example.net.download.WebImageActivity" />
+        <activity android:name="com.bryan.example.net.rest.SearchActivity" />
+        <activity android:name="com.bryan.example.net.rest.SearchPostActivity" />
+        <activity android:name="com.bryan.example.net.rest.SearchPostCompositeActivity" />
+        <activity android:name="com.bryan.example.net.rest.AuthActivity" />
+        <activity android:name="com.bryan.example.net.parse.JsonParseActivity" />
+        <activity android:name="com.bryan.example.net.parse.XmlParseActivty" />
+
+        <!-- FRAMEWORK -->
+        <activity android:name="com.bryan.example.framework.FrameWorkActivity" >
+        </activity>
+        <activity android:name="com.bryan.example.framework.mvp.login.LoginActivity" >
+        </activity>
+        <activity android:name="com.bryan.example.framework.mvp.main.MyMainActivity" >
+        </activity>
+        <!-- 数据存储 -->
+        <activity android:name="com.bryan.example.datasave.DataSaveMainActivity" >
+        </activity>
+        <activity android:name="com.bryan.example.datasave.simple.DsSimpleActivity" >
+        </activity>
+        <activity android:name="com.bryan.example.datasave.file.InternalDsActivity" >
+        </activity>
+        <activity android:name="com.bryan.example.datasave.file.ExternalDsActivity" >
+        </activity>
+        <activity android:name="com.bryan.example.datasave.assets.AssetsActivity" >
+        </activity>
+
+        <!-- BMOB -->
+        <activity android:name="com.bryan.example.bmob.test.BmobSettingActivity" >
+        </activity>
+
+        <receiver android:name="com.bryan.example.function.gongneng.SmsReceiver" >
+
+            <!-- 添加优先级 -->
+            <intent-filter android:priority="5" >
+                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

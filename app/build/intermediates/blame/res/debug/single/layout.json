@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dialog.xml",
+        "source": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\layout\\activity_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_notification.xml",
+        "source": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\layout\\custom_notification.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view.xml",
+        "source": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\layout\\activity_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tabwidget.xml",
+        "source": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\layout\\activity_tabwidget.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notification.xml",
+        "source": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\layout\\activity_notification.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_net_base.xml",
+        "source": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\layout\\activity_net_base.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_custom_toast.xml",
+        "source": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\layout\\item_custom_toast.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notify1.xml",
+        "source": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\layout\\activity_notify1.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_simple.xml",
+        "source": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\layout\\activity_simple.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_drawer.xml",
+        "source": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\layout\\activity_drawer.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_framework.xml",
+        "source": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\layout\\activity_framework.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_function.xml",
+        "source": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\layout\\activity_function.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_romate_scroll.xml",
+        "source": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\layout\\activity_romate_scroll.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tabs.xml",
+        "source": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\layout\\activity_tabs.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_drop_target.xml",
+        "source": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\layout\\activity_drop_target.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_datasava_main.xml",
+        "source": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\layout\\activity_datasava_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_webimageview.xml",
+        "source": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\layout\\activity_webimageview.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_assets.xml",
+        "source": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\layout\\activity_assets.xml"
+    }
+]

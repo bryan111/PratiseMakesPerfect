@@ -1,0 +1,36 @@
+<TabHost xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/tabhost"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+	<LinearLayout 
+	    android:layout_height="match_parent"
+	    android:layout_width="match_parent"
+	    android:orientation="vertical" >
+	    <TabWidget 
+	        android:id="@android:id/tabs"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        />
+	    <FrameLayout 
+	        android:id="@android:id/tabcontent"
+	        android:layout_height="match_parent"
+	        android:layout_width="match_parent"
+	        >
+	        <TextView 
+	            android:id="@+id/tv_first"
+	            android:layout_height="match_parent"
+	            android:layout_width="match_parent"
+	            android:text="这是第1个tab"/>
+	        <TextView 
+	            android:id="@+id/tv_second"
+	            android:layout_height="match_parent"
+	            android:layout_width="match_parent"
+	            android:text="这是第2个tab"/>
+	        <TextView 
+	            android:id="@+id/tv_third"
+	            android:layout_height="match_parent"
+	            android:layout_width="match_parent"
+	            android:text="这是第3个tab"/>
+	    </FrameLayout>
+	</LinearLayout>
+</TabHost>

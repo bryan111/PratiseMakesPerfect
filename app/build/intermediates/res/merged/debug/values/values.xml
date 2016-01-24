@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accentGreen">#d0f8ce</color>
+    <color name="darkGreen">#0a7e07</color>
+    <color name="primaryGreen">#259b24</color>
+    <color name="tabTextDefault">#9900ffff</color>
+    <color name="tabTextSelected">#ffffff</color>
+    <declare-styleable name="SlidingTabLayout"><attr name="android:textColorPrimary"/><attr format="color" name="textColorTabDefault"/><attr format="color" name="textColorTabSelected"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="head_height">150dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">PractiseMakePerfect</string>
+    <string name="close">close</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="imgfuji">http://imgsrc.baidu.com/forum/w%3D580%3B/sign=97061bef8a1001e94e3c140788357aec/ca1349540923dd546284f56ed609b3de9d8248c4.jpg</string>
+    <string name="imgrun">http://imgsrc.baidu.com/forum/w%3D580/sign=e500d590d22a283443a636036bb4c92e/02dcba014a90f603f6d459ca3f12b31bb151edb2.jpg</string>
+    <string name="log_in">Log in</string>
+    <string name="open">open</string>
+    <string name="password">password</string>
+    <string name="password_error">Password cannot be empty</string>
+    <string name="title_activity_main">MVP Example</string>
+    <string name="user_name">username</string>
+    <string name="username_error">Username cannot be empty</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+
+
+
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+
+        <!-- 提供装饰主题颜色 -->
+        <!--
+        <item name="colorPrimary">@color/primaryGreen</item>
+        <item name="colorPrimaryDark">@color/darkGreen</item>
+        <item name="colorAccent">@color/accentGreen</item>
+
+        -->
+
+
+        <!-- 移除Action Bar 阴影 -->
+        <item name="android:windowContentOverlay">@null</item>
+        <!-- 选项卡的颜色属性 -->
+        <item name="textColorTabDefault">@color/tabTextDefault</item>
+        <item name="textColorTabSelected">@color/tabTextSelected</item>
+    </style>
+    <style name="NotificationText" parent="android:TextAppearance.StatusBar.EventContent"/>
+    <style name="NotificationTitle" parent="android:TextAppearance.StatusBar.EventContent.Title"/>
+</resources>

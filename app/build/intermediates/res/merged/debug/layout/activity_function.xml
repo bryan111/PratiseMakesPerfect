@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/singleTouch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ViewGroup平面滚动" />
+
+    <Button
+        android:id="@+id/singleTouch2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ViewGroup平面滚动2" />
+
+    <Button
+        android:id="@+id/touchImageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="多点触摸交互的ImageView(缩放旋转)" />
+    
+      <Button
+        android:id="@+id/notify"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Notification" />
+    
+
+    <Button
+        android:id="@+id/drop"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="可拖动的ImageView（使用view.startDrag进行拖动），拖动到某个imageview,使用onDragListener" />
+
+    <Button
+        android:id="@+id/touch_delegate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="触摸事件代理，使用TouchDelegate" />
+
+    <Button
+        android:id="@+id/touch_delegate_custom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="触摸事件的转发，使用dispatchTouchEvent()" />
+
+    <Button
+        android:id="@+id/disallow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ListView嵌套ViewPager，防止ListView的监听事件截至了ViewPager的监听，用于处理嵌套布局所产生的事件拦截" />
+
+    <Button
+        android:id="@+id/connect"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="判断网络是否连接以及是否为wifi连接" />
+
+    <Button
+        android:id="@+id/sms"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="短信的发送和接收" />
+
+</LinearLayout>

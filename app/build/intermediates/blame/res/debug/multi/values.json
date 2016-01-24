@@ -1,0 +1,486 @@
+[
+    {
+        "outputFile": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 150,
+                        "endColumn": 45,
+                        "endOffset": 191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 43,
+                    "endOffset": 140
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 43,
+                        "endOffset": 144
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 145,
+                    "endColumn": 46,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 46,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endColumn": 50,
+                    "endOffset": 238
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 203,
+                        "endColumn": 50,
+                        "endOffset": 249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 243,
+                    "endColumn": 49,
+                    "endOffset": 288
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 255,
+                        "endColumn": 49,
+                        "endOffset": 300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 499,
+                    "endColumn": 57,
+                    "endOffset": 552
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 557,
+                    "endColumn": 55,
+                    "endOffset": 608
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 613,
+                    "endColumn": 43,
+                    "endOffset": 652
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 208,
+                        "endColumn": 43,
+                        "endOffset": 247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 657,
+                    "endColumn": 52,
+                    "endOffset": 705
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 52,
+                        "endOffset": 161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 710,
+                    "endColumn": 56,
+                    "endOffset": 762
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 56,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 767,
+                    "endColumn": 39,
+                    "endOffset": 802
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 588,
+                        "endColumn": 39,
+                        "endOffset": 623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 807,
+                    "endColumn": 52,
+                    "endOffset": 855
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 166,
+                        "endColumn": 52,
+                        "endOffset": 214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 860,
+                    "endColumn": 159,
+                    "endOffset": 1015
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 633,
+                        "endColumn": 159,
+                        "endOffset": 788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1020,
+                    "endColumn": 155,
+                    "endOffset": 1171
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 794,
+                        "endColumn": 155,
+                        "endOffset": 945
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1176,
+                    "endColumn": 41,
+                    "endOffset": 1213
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 312,
+                        "endColumn": 41,
+                        "endOffset": 349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1218,
+                    "endColumn": 37,
+                    "endOffset": 1251
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 37,
+                        "endOffset": 583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1256,
+                    "endColumn": 45,
+                    "endOffset": 1297
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 266,
+                        "endColumn": 45,
+                        "endOffset": 307
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1302,
+                    "endColumn": 67,
+                    "endOffset": 1365
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 482,
+                        "endColumn": 67,
+                        "endOffset": 545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1370,
+                    "endColumn": 59,
+                    "endOffset": 1425
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 354,
+                        "endColumn": 59,
+                        "endOffset": 409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1430,
+                    "endColumn": 46,
+                    "endOffset": 1472
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 219,
+                        "endColumn": 46,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1477,
+                    "endColumn": 67,
+                    "endOffset": 1540
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 414,
+                        "endColumn": 67,
+                        "endOffset": 477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1545,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 1835
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 195,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1840,
+                    "endLine": 51,
+                    "endColumn": 12,
+                    "endOffset": 2399
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 520,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 1094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2404,
+                    "endColumn": 91,
+                    "endOffset": 2491
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1205,
+                        "endColumn": 92,
+                        "endOffset": 1293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 2496,
+                    "endColumn": 98,
+                    "endOffset": 2590
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioWorkspace\\PratiseMakesPerfect\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1102,
+                        "endColumn": 99,
+                        "endOffset": 1197
+                    }
+                }
+            }
+        ]
+    }
+]

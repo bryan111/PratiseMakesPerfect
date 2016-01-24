@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/load_url"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="webview加载一个url,介绍webView的一般用法" />
+
+        <Button
+            android:id="@+id/load_assets"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1-WebView加载Assets中的资源 2-WebView加载HTML代码（存在资源文件中或者常量都可以）" />
+
+        <Button
+            android:id="@+id/load_java_script"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="访问webView中当前显示内容的HTML源代码。读取或修改其中的某个值(未掌握)" />
+
+        <Button
+            android:id="@+id/load_img"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="使用AsyncTask从后台线程下载图片,联网推崇的方法是使用HttpUrlConnecttion,Android官方信心推荐，轻量级" />
+
+        <Button
+            android:id="@+id/load_back"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="从后台下载一个大的资源，比如电影，apk下载等。并且不要求用户让应用程序一直处于激活状态（使用DownLoadManager  API:>=9）" />
+
+        <Button
+            android:id="@+id/load_get"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="REST  简单的GET请求" />
+
+        <Button
+            android:id="@+id/load_post"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="REST  简单的POST请求" />
+
+        <Button
+            android:id="@+id/load_post_composite"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="REST  复合的POST请求" />
+
+        <Button
+            android:id="@+id/load_auth"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="授权认证" />
+        <Button
+            android:id="@+id/load_json"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="json解析" />
+        <Button
+            android:id="@+id/load_xml"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="XML_SAX解析" />
+    </LinearLayout>
+
+</ScrollView>

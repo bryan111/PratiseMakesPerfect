@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	    <!-- 为选项卡颜色自定义属性 -->
+    <declare-styleable name="SlidingTabLayout">
+        <attr name="android:textColorPrimary" />
+        <attr name="textColorTabDefault" format="color"></attr>
+        <attr name="textColorTabSelected" format="color"></attr>
+          <!-- 在主题中定义了两种文本颜色 -->
+    </declare-styleable>
+  
+
+</resources>

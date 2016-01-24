@@ -1,0 +1,255 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:2:1-127:12
+	xmlns:android
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.1.1] D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:14:22-77
+uses-permission#android.permission.SEND_SMS
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:16:5-66
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:16:22-64
+uses-permission#android.permission.READ_SMS
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:18:5-66
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:18:22-64
+application
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:21:5-117:19
+MERGED from [com.android.support:support-v4:23.1.1] D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:24:9-41
+	android:allowBackup
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:22:9-35
+	android:icon
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:23:9-45
+	android:theme
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:25:9-40
+activity#com.bryan.example.MainActivity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:26:9-34:20
+	android:label
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:28:13-45
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:27:13-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:32:27-74
+activity#com.bryan.example.view.ViewBaseActivity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:37:9-38:20
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:37:19-73
+activity#com.bryan.example.view.tagwidget.TabwidgetActivity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:39:9-40:20
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:39:19-84
+activity#com.bryan.example.view.dialog.CustomDailogActivity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:41:9-42:20
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:41:19-84
+activity#com.bryan.example.view.notifycation.NotificationActvity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:43:9-44:20
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:43:19-89
+activity#com.bryan.example.view.drawer.DrawerActivity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:45:9-46:20
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:45:19-78
+activity#com.bryan.example.view.slidingtablayout.ActionTabsActivity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:47:9-48:20
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:47:19-92
+activity#com.bryan.example.function.FunctionBaseActivity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:51:9-52:20
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:51:19-81
+activity#com.bryan.example.function.touch.PanScrollActivity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:53:9-54:20
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:53:19-84
+activity#com.bryan.example.function.touch.PanScrollActivity2
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:55:9-56:20
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:55:19-85
+activity#com.bryan.example.function.imageview.RotateZoomImageViewActivity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:57:9-58:20
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:57:19-98
+activity#com.bryan.example.function.touch.TouchDelegateActivity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:59:9-60:20
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:59:19-88
+activity#com.bryan.example.function.touch.RemoteScrollActivity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:61:9-62:20
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:61:19-87
+activity#com.bryan.example.function.touch.DisallowActivity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:63:9-64:20
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:63:19-83
+activity#com.bryan.example.function.imageview.DragTouchActivity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:65:9-66:20
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:65:19-88
+activity#com.bryan.example.function.gongneng.IsNetConnectActivity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:67:9-102
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:67:19-90
+activity#com.bryan.example.function.gongneng.SmsActivity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:68:3-87
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:68:13-75
+activity#com.bryan.example.function.notify.NotificationActivity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:69:9-100
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:69:19-88
+activity#com.bryan.example.net.NetActivityBase
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:72:9-73:20
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:72:19-71
+activity#com.bryan.example.net.webview.LoadAssetsActivity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:74:9-94
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:74:19-82
+activity#com.bryan.example.net.webview.LoadJavaScriptActivity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:75:9-98
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:75:19-86
+activity#com.bryan.example.net.webview.LoadUrlActivity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:76:9-91
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:76:19-79
+activity#com.bryan.example.net.download.DownLoadActivity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:77:9-93
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:77:19-81
+activity#com.bryan.example.net.download.WebImageActivity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:78:9-93
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:78:19-81
+activity#com.bryan.example.net.rest.SearchActivity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:79:3-81
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:79:13-69
+activity#com.bryan.example.net.rest.SearchPostActivity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:80:9-91
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:80:19-79
+activity#com.bryan.example.net.rest.SearchPostCompositeActivity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:81:9-100
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:81:19-88
+activity#com.bryan.example.net.rest.AuthActivity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:82:9-85
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:82:19-73
+activity#com.bryan.example.net.parse.JsonParseActivity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:83:9-91
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:83:19-79
+activity#com.bryan.example.net.parse.XmlParseActivty
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:84:9-89
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:84:19-77
+activity#com.bryan.example.framework.FrameWorkActivity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:88:9-89:20
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:88:19-79
+activity#com.bryan.example.framework.mvp.login.LoginActivity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:90:9-91:20
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:90:19-85
+activity#com.bryan.example.framework.mvp.main.MyMainActivity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:92:9-93:20
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:92:19-85
+activity#com.bryan.example.datasave.DataSaveMainActivity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:95:9-96:20
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:95:19-81
+activity#com.bryan.example.datasave.simple.DsSimpleActivity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:97:9-98:20
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:97:19-84
+activity#com.bryan.example.datasave.file.InternalDsActivity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:99:9-100:20
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:99:19-84
+activity#com.bryan.example.datasave.file.ExternalDsActivity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:101:9-102:20
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:101:19-84
+activity#com.bryan.example.datasave.assets.AssetsActivity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:103:9-104:20
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:103:19-82
+activity#com.bryan.example.bmob.test.BmobSettingActivity
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:107:9-108:20
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:107:19-81
+receiver#com.bryan.example.function.gongneng.SmsReceiver
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:111:9-116:20
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:111:19-81
+intent-filter#android.provider.Telephony.SMS_RECEIVED
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:113:13-115:29
+	android:priority
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:113:28-48
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:114:17-81
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:114:25-79
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:120:5-67
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:120:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:121:5-76
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:121:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:122:5-79
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:122:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:123:5-75
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:123:22-72
+uses-permission#android.permission.READ_LOGS
+ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:125:5-68
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\PratiseMakesPerfect\app\src\main\AndroidManifest.xml:125:22-65

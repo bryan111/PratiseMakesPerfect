@@ -1,0 +1,39 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/main_view_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="控件的使用" />
+
+    <Button
+        android:id="@+id/main_function_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="功能的总结" />
+      <Button
+        android:id="@+id/net"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="通信和联网" />
+
+    <Button
+        android:id="@+id/main_framework_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="框架方面的总结" />
+     <Button
+        android:id="@+id/main_data_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="数据存储" />
+      <Button
+        android:id="@+id/bmob"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BMOB的简单配置和使用" />
+
+</LinearLayout>

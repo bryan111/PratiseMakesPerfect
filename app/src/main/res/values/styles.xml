@@ -1,0 +1,37 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- 基础应用程序主题 -->
+    <style name="AppTheme" parent="AppBaseTheme">
+
+        <!-- 提供装饰主题颜色 -->
+        <!--
+        <item name="colorPrimary">@color/primaryGreen</item>
+        <item name="colorPrimaryDark">@color/darkGreen</item>
+        <item name="colorAccent">@color/accentGreen</item>
+        -->
+
+
+        <!-- 移除Action Bar 阴影 -->
+        <item name="android:windowContentOverlay">@null</item>
+        <!-- 选项卡的颜色属性 -->
+        <item name="textColorTabDefault">@color/tabTextDefault</item>
+        <item name="textColorTabSelected">@color/tabTextSelected</item>
+    </style>
+
+    <style name="NotificationTitle" parent="android:TextAppearance.StatusBar.EventContent.Title" />
+
+    <style name="NotificationText" parent="android:TextAppearance.StatusBar.EventContent" />
+
+</resources>
